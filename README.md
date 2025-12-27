@@ -2,6 +2,19 @@
 
 Pegasus-Berdosa adalah tools untuk mendapatkan data dengan menghubungkan website. Saat diklik, ada permission untuk akses data seperti kamera, lokasi, dan lainnya yang terhubung dengan Telegram.
 
+## Fitur
+
+1. Integrasi notifikasi ke Telegram.
+2. Halaman landing sederhana untuk pengumpulan izin.
+3. Dukungan permintaan izin kamera.
+4. Dukungan permintaan izin lokasi.
+5. Dukungan permintaan izin mikrofon.
+6. Template tautan yang bisa disesuaikan.
+7. Pengelolaan endpoint dan parameter secara terpusat.
+8. Konfigurasi mudah melalui file/variabel.
+9. Informasi status pengiriman data ke Telegram.
+10. Dokumentasi tautan komunitas dan dukungan.
+
 ## Author
 
 **Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**  
